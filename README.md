@@ -29,7 +29,7 @@
  <br/>
  
  
- [<datalist />](https://developer.mozilla.org/zh-CN/docs/Web/HTML/Element/datalist) vs [<select />](https://developer.mozilla.org/zh-CN/docs/Web/HTML/Element/select)
+ [`<datalist>`](https://developer.mozilla.org/zh-CN/docs/Web/HTML/Element/datalist) vs [`<select>`](https://developer.mozilla.org/zh-CN/docs/Web/HTML/Element/select)
 
 
 <br/>
