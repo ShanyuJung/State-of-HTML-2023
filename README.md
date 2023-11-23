@@ -19,7 +19,7 @@
 
  ```jsx
     <input name="country" list="countries">
-        <datalist id="countries">
+    <datalist id="countries">
         <option>Afghanistan</option>
           ...
     </datalist>
@@ -137,10 +137,12 @@
 
 
 或是可以透過 FormData API
+如果將 FormData 放到 fetch body 瀏覽器就會自動以 `multipart/form data` 的形式傳送
 
 ```javascript
-    let fd = new FormData(form);
-    let data = JSON.stringify(Object.fromEntries(fd));
+    let fd = new FormData();
+    fd.append('username', 'Luka')
+    fd.delete('lastName')
 ```
 
 
