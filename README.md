@@ -9,7 +9,7 @@
 <br/>
 
 
- ## `<datalist />`
+ ## `<datalist>`
 比較像 dropdown 的 select element ?
 
 還有附帶搜尋功能選項的功能
@@ -35,7 +35,7 @@
 <br/>
 
 
-## `<selectlist />`
+## `<selectlist>`
 
 真正的原生 dropdown element 來了
 
